@@ -8,6 +8,7 @@ Below we can see the statistics for the temperatures in the months of June and D
 Temp stats for June       |  Temp stats for Dec
 :-------------------------:|:-------------------------:
 ![temp_june](https://raw.githubusercontent.com/si1ver1/surfs_up/master/resources/temp_june.jpg) | ![temp_dec](https://raw.githubusercontent.com/si1ver1/surfs_up/master/resources/temp_dec.jpg)
+
 Based on the statistics we can see:
 * We have a higher count for the months of June than December even though the Month of December has more days. We probably have more readings for the month of June
 * The max temperature is almost the same but the minimum temperature in December is almost 10 degrees less
